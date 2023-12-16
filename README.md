@@ -3,7 +3,7 @@ Polimorfismo Paramétricos no java é implementado como generics, então segue u
 
 Usaremos como referencia o LinkedList do java utils 
 Criaremos uma classe comum em java, porém, oque a definirá como genérica será o parametro que iremos passar em sua declaração <T>: 
-# "class GenericLinkedList<T>"
+# "class GenericLinkedList <T>"
 
 Neste exemplo, a classe GenericLinkedList é genérica e aceita um tipo de dado (T) como parâmetro. O tipo de dado determina o tipo de elementos que podem ser armazenados na lista.
 
